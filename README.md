@@ -1,9 +1,9 @@
 # Deep Learning for Computer Vision: Image As Data
 
 <p float="left"> 
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="30%" /> 
-  <img src="https://pillow.readthedocs.io/en/stable/_static/pillow-logo-dark-text-big.png" width="30%" /> 
-  <img src="https://matplotlib.org/stable/_static/logo_light.svg" width="30%" /> 
+  <img src="Computervision.png" width="30%" /> 
+  <img src="worldquantuniversity.png" width="30%" /> 
+  <img src="My Image.png" width="30%" /> 
 </p>
 
 ### Introduction
